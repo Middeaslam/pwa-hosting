@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://your-username.github.io/pwa-hosting.git",
+  "start_url": "https://middeaslam.github.io/pwa-hosting/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
